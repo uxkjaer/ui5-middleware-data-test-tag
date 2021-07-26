@@ -1,13 +1,14 @@
-# UI5 simple proxy middleware
+# UI5 Data Test TAG
 
-Middleware for [ui5-server](https://github.com/SAP/ui5-server), enabling proxy support.
+Middleware for [ui5-server](https://github.com/SAP/ui5-server), enabling addition of custom test tags for easier locators.
+Task for [ui5-builder](https://github.com/SAP/ui5-builder, enabling addition of custom test tags for easier locators.
 
 ## Install
 
 ```bash
-npm install ui5-middleware-simpleproxy --save-dev
+npm install ui5-tast-data-test-tag --save-dev
 ```
-
+<!-- 
 ## Configuration options (in `$yourapp/ui5.yaml`)
 
 - baseUri: `string`
@@ -122,4 +123,4 @@ If you are using the Microsoft OData services for testing purposes, like Northwi
 
 This work is [dual-licensed](../../LICENSE) under Apache 2.0 and the Derived Beer-ware License. The official license will be Apache 2.0 but finally you can choose between one of them if you use this work.
 
-When you like this stuff, buy [@vobu](https://twitter.com/vobu) a beer or buy [@pmuessig](https://twitter.com/pmuessig) a coke when you see them.
+When you like this stuff, buy [@vobu](https://twitter.com/vobu) a beer or buy [@pmuessig](https://twitter.com/pmuessig) a coke when you see them. -->
